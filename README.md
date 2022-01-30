@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @code-redx8
+- 👀 I’m interested in web development and Artificial Inteligence
+- 🌱 I’m currently learning AI
